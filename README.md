@@ -1,6 +1,6 @@
 # Landmarks
 
-A SwiftUI app built by following Apple's [Handling User Input](https://developer.apple.com/tutorials/swiftui) tutorial.  
+A SwiftUI app built by following Apple's tutorial.  
 This project teaches how to work with forms, toggle controls, navigation, and user preferences in SwiftUI.
 
 ## Overview
